@@ -10,9 +10,9 @@
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.196Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.309Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.196Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.309Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -27,16 +27,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_92"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_157"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.198Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.311Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.198Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.311Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2 P3"}</cw:cwrcAttributes>
@@ -51,16 +51,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_94"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_159"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.198Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.312Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.198Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.312Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -75,16 +75,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_96"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_161"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.199Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.312Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.199Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.312Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -99,16 +99,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_98"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_163"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.200Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.313Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.200Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.313Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P1"}</cw:cwrcAttributes>
@@ -123,16 +123,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_100"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_165"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.200Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.314Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.200Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.314Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P2"}</cw:cwrcAttributes>
@@ -147,16 +147,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_102"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_167"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.201Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.314Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.201Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.314Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -171,16 +171,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_104"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_169"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.203Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.316Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.203Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.316Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"P4"}</cw:cwrcAttributes>
@@ -195,16 +195,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_106"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_171"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.204Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.317Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.204Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.317Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"I1"}</cw:cwrcAttributes>
@@ -219,16 +219,16 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_108"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_173"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
 	<oa:hasTarget xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:hasBody xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 	<oa:annotatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
-	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.205Z</oa:annotatedAt>
+	<oa:annotatedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.317Z</oa:annotatedAt>
 	<oa:serializedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource=""/>
-	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:00:01.205Z</oa:serializedAt>
+	<oa:serializedAt xmlns:oa="http://www.w3.org/ns/oa#">2018-03-19T21:13:41.317Z</oa:serializedAt>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#Annotation"/>
 	<oa:motivatedBy xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="http://www.w3.org/ns/oa#linking"/>
 	<cw:cwrcAttributes xmlns:cw="http://cwrc.ca/ns/cw#">{"target":"I1"}</cw:cwrcAttributes>
@@ -243,10 +243,11 @@
 	<oa:hasSelector xmlns:oa="http://www.w3.org/ns/oa#" rdf:resource="undefined"/>
 </rdf:Description>
 <rdf:Description xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" rdf:about="undefined">
-	<rdf:value>xpointer(//ref[@annotationId="ent_110"])</rdf:value>
+	<rdf:value>xpointer(//ref[@annotationId="ent_175"])</rdf:value>
 	<rdf:type rdf:resource="http://www.w3.org/ns/oa#FragmentSelector"/>
 </rdf:Description>
 </rdf:RDF>
+
 
     <teiHeader>
         <fileDesc>
@@ -260,10 +261,10 @@
                 <p>Information about the source</p>
             </sourceDesc>
         </fileDesc>
-    <encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-19T20:58:21.891Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
+    <encodingDesc><appInfo><application version="1.0" ident="CWRC-GitWriter-web-app" notAfter="2018-03-19T21:11:59.771Z"><label>CWRC-GitWriter-web-app</label></application></appInfo></encodingDesc></teiHeader>
     <text>
     <body>
-    <!--   The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute   -->
+    <!--    The type attribute in the &lt;div&gt; tags determines how DToC will read that section. The general DToC document structure includes multiple chapers followed by an index. However, you can add forward, afterwords, etc. by chaging the &lt;div&gt; type attribute    -->
         <div type="chapter">
             <head>
                 <bibl>
@@ -271,44 +272,37 @@
                     <author>Author</author>
                 </bibl>
             </head>
-           <p xml:id="P1">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-	       <p xml:id="P2">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-        </div>
- 		<div type="chapter">
-            <head>
-                <bibl>
-                    <title>Title</title>
-                    <author>Author</author>
-                </bibl>
-            </head>
+           <p xml:id="P1">Instagram, released in 2010, is a primarily mobile-based app that offers users an easy way to share and view pictures with corresponding captions (Wikipedia). The app is unique from other social media platforms due to its larger emphasis on photo-sharing as opposed to text-only posts or personal profiles, like Facebook for example. As Instagram’s member population continues to grow, users find new ways to utilize its features, creating different types of posts—like posts that use poetry or fiction—that fall into the category of e-literature and position Instagram as a writing platform.</p>
+	       <p xml:id="P2">For the purposes of this review, a writing platform is a program that facilitates the creation of e-literature, or text that utilizes features specifically characteristic of the web. Instagram can be defined as a writing platform then, through the examination and analysis of different posts that use the interface and functions of the app to present literary work. This review includes examples of an Instagram novel from @heyharryheymatilda as well as poetry by Rupi Kaur.</p><p>A variety of features allow Instagram to function as a writing platform, including its interface, its ability to support multiple media, its captioning-and-commenting format, and its taggable posts. Instagram’s interface is minimalistic and easy to use. As shown in Figure 1, the user has a row of icons at the bottom of the screen that lead to different functions that Instagram offers. Moving from left to right, the house icon represents the “home tab,” which acts as a news feed, and allows users to catch up on posts made by other users that they are following; the magnifying glass is an “explore tab,” where users can see posts made by people they are not currently following, sorted by tags; plus sign is a “publishing tab” that allows users to post photos from their camera roll or photos folder to the app, going step by step through the process of editing and tagging the image correctly, it works regardless of what screen the user is currently on; the heart icon is a “notification tab,” where the user can view notifications about their account, for example who has started to follow them or who has liked one of their posts; finally, the person icon is a “profile tab” where users can see the information that makes up their profile, along with any posts that they have made or been tagged in. </p><p>This simplistic interface, with easy-to-understand tabs, and the ability to create a new post from any screen that the user is on, makes it effortless for creators to post their content quickly. The same minimalistic interface also provides emphasis to the work; the white background, lack of distracting graphics, and large display size of images make the post itself the main focus. Posts on Instagram can include images or videos in the large square display, and text in the caption underneath the display. This is not to say that there cannot be text in place of the image, only that the actual format has to be a picture file; as we will look at later, authors use image display in a variety of different ways. The format of Instagram posts, which includes the capacity captions as well as comments, facilitates text creation and adds to the characterization of the app as a writing platform. Captions themselves, added to an image before it is posted, can be up to 2,200 words (Chayka 2016), so there is a lot of space for writing, more than other social media platforms like Twitter, which limit posts to 240 characters. Based my own experience, I believed that Instagram’s captions had no character count, due to the fact that I never reached the limit, which leads me to conclude that the word limit is not a major constraint to writers using this platform. Further, the ability for other users to comment on the posts that are created facilitate interactivity between the writer and reader, and allow the writer to continually switch roles as they move between writing content and engaging with the comments made about that same content. Finally, the ability for one to tag their posts with “hashtags” is an advantage to using Instagram as a writing platform. Tags added to a post are searchable by any user on the app, regardless of whether they are subscribed to the creator or not, which allows authors to expose their work to a wide audience with little difficulty. These tags create a web of different posts, where same tags are grouped together for users to peruse. For example, a search of the tag #instapoet (see fig. 2) returns results of a wide variety of different poets’ work, because they have tagged it with #instapoet. One such poet is Rupi Kaur, who originally published her poems on Tumblr and Instagram, but was able to publish two books, milk and honey and the sun and her flowers, due to the attention that Instagram users gave her work (Medley 2017). </p><p>These technical features make Instagram a unique and viable choice for a writing platform, but there are additional influences that impact creators’ decision to use the app in this capacity.</p><p>Kyle Chayka examines the reason that writers are turning to Instagram to create their content, rather than other social media platforms; he uses the example of Natasha Japanwala, a writer from London, who says, “Facebook is daunting in a way that Instagram is not yet because literally everyone I know is on Facebook. Posting on Facebook can be an almost political act. On Instagram I have a little more freedom to just be me” (2016). Though this article was written two years ago, the same idea still applies. Facebook is a giant, and as of June 2017, had 2 billion users in contrast to Instagram’s 700 million (see fig. 3).</p><p>In addition to the fewer number of users on Instagram, the intended purposes of the two social networking platforms influence writers’ decisions to use one over the other. Facebook encourages users to create profiles for themselves with a large amount of personal information, and the use of this profile in order to find friends that you know is the primary use of the site, and definitely the way to get the most use out of the platform. Without friends on Facebook, you can still like other pages, but the functionality is limited; in order to use Facebook to its full capacity, you cannot be truly anonymous. Instagram, on the other hand, provides full functionality to all users, regardless of followers or “friends.” When users sign up, they are asked to create a profile to sign in, but that’s it. The user has a username, which my or may not be tied to their actual identity, and then they can look at whatever they want to on the site, create whatever they want to on the site, all while remaining relatively anonymous. Of course, there are always ways to track someone down, but for the most part, Kyle Chayka writes, “it’s rare to encounter strangers or trolls; old classmates and distant relatives are unlikely to follow you and even less likely to leave comments. If Facebook, where your short life update could wind up in a friend-of-a-friend’s newsfeed without you realizing it, is a minefield, Instagram is a clearing: quiet, sage, pretty, and more than a little twee” (Chayka 2015).</p><p>Writers who choose to use Instagram also afford themselves some freedom in the way that they choose to express themselves in the post; more specifically, in their production of e-literature, they can create the text within the shared image, or simply within the caption. An Instagram novel, “Hey Harry Hey Matilda” uses photographs with longer captions as a way to tell the story (see fig. 4). The photos are in high-resolution, and bring a sense of realism to the story, which McMullan says, creates a haunting effect (McMullan 2015). In this case, the photos themselves play a large part in the work, as they draw the reader’s attention to a snapshot of the fictional characters’ lives, and make the viewers feel more connected to them.</p><p>In contrast, poet Rupi Kaur inserts her text into the image that she posts, generally along with a drawing of hers, in order to share the text on the platform (see fig. 5).</p><p>The interaction between text and image is crucial to creating literature on this platform because, as mentioned before, Instagram places a large emphasis on their app as a photo-sharing platform. The functionality of the app reflects this in that the user can only upload picture files. As we see in the above screenshot, however, picture files can be composed of a variety of different thing, from typography to hand-drawn pictures. Generally, images can be created in other programs and saved as pictures in order to be posted to Instagram. The photo and the text, whether they are both in the picture display or separated into photo and caption, come together to form the whole of the work, so authors need to have a strategy about how their work will be presented, given the constraints. The minimalistic interface of Instagram only offers these options as ways to produce and share e-literature. Although easy to use and advantageous for reaching a wide audience, Instagram is fairly restrictive as a writing platform because the creator is only given the format of image and then text.</p><p>Other downsides include the fact that Instagram is now monetized, and that there can be an overwhelming amount of content. The monetization of Instagram is significant for users and creators because it entails the use of ads. The platform itself will continue to be free for anyone to use, so the revenue will come from companies paying to get their advertisements on Instagram. This, as a result, will clutter up users’ news feeds, though will leave functions like “explore” unaffected. Additionally, the sheer amount of content that is created on a daily basis can sometimes be overwhelming. Users can pare down the amount of content they see on their news feeds by only following a select number of accounts, but when using the “explore” function, the number of posts and accounts that come up is quite staggering. As shown in Figure 2 above, when users search #instapoet, they are shown almost 1.5 million posts that have that tag. This can be overwhelming for the viewer, and also frustrating for creators, who are trying to have their work seen, but are having it get lost in the avalanche of other work.</p><p>Instagram— as a writing platform—has pros and cons, but overall provides writers with a simple and easy-to-use way to create e-literature and share it with a wide audience. What it lacks in freedom, it makes up in its ability to group like works together with the use of tags, and suggest similar work for interested users to view. Instagram combines the functions of writing platform and social media site by providing writers a place to create and share their work quickly and easily.</p><p>
+                    </p></div><div type="chapter">
            <p xml:id="P3">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
 	       <p xml:id="P4">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
         </div>
-        <!--   To add an index   -->
+        <!--    To add an index    -->
         <div type="index">
                 <list>
-                        <item xml:id="I1"><ref annotationId="ent_92" target="P2">term</ref></item>
-                        <item xml:id="I2"><ref annotationId="ent_94" target="P2 P3">term</ref></item>
-                        <item xml:id="I3"><ref annotationId="ent_96" target="P4">term</ref></item>  
+                        <item xml:id="I1"><ref annotationId="ent_157" target="P2">term</ref></item>
+                        <item xml:id="I2"><ref annotationId="ent_159" target="P2 P3">term</ref></item>
+                        <item xml:id="I3"><ref annotationId="ent_161" target="P4">term</ref></item>  
                         
-                        <!--   To create a subsection of terms   -->
-                        <item xml:id="I4"><ref annotationId="ent_98" target="P1">term</ref>
+                        <!--    To create a subsection of terms    -->
+                        <item xml:id="I4"><ref annotationId="ent_163" target="P1">term</ref>
                         	<list>
-                        		<item><ref annotationId="ent_100" target="P1">subterm</ref></item>
-                        		<item><ref annotationId="ent_102" target="P2">subterm</ref></item>
-                        		<item><ref annotationId="ent_104" target="P4">subterm</ref></item>
+                        		<item><ref annotationId="ent_165" target="P1">subterm</ref></item>
+                        		<item><ref annotationId="ent_167" target="P2">subterm</ref></item>
+                        		<item><ref annotationId="ent_169" target="P4">subterm</ref></item>
                         	</list>
                         </item>  
                         
-                        <!--   To create index cross references   -->     	
+                        <!--    To create index cross references    -->     	
                         	    <item xml:id="I5">
-                        	        <ref annotationId="ent_106" target="P4">term</ref>
+                        	        <ref annotationId="ent_171" target="P4">term</ref>
                         	        <list>
                         	            <head>
                         	                <hi rend="italic">See also</hi>
                         	            </head>
-                        	            <item><ref annotationId="ent_108" target="I1">associated term</ref></item>
-                        	            <item><ref annotationId="ent_110" target="I1">associated term</ref></item>
+                        	            <item><ref annotationId="ent_173" target="I1">associated term</ref></item>
+                        	            <item><ref annotationId="ent_175" target="I1">associated term</ref></item>
                         	        </list>
                         	    </item>           	                    
                </list>
